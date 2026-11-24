@@ -1,6 +1,11 @@
 # Haridwar University – Academic Website Redesign & Web Architecture Concept
 > **Independent Student Engineering & UI/UX Showcase Project by Utkarsh Jaiswal**
 
+## 🌐 Live Project
+
+- **Website:** [https://jaiswalutkarsh2908-design.github.io/college-website/](https://jaiswalutkarsh2908-design.github.io/college-website/)
+- **GitHub Repository:** [https://github.com/jaiswalutkarsh2908-design/college-website](https://github.com/jaiswalutkarsh2908-design/college-website)
+
 [![Author](https://img.shields.io/badge/Author-Utkarsh%20Jaiswal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-jaiswal-29122008d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
